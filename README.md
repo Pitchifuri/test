@@ -19,6 +19,7 @@ A npm / gulp kick start template for fast and modern front-end development.
 -   [Source maps](https://www.npmjs.com/package/gulp-sourcemaps)
 -   [Uglify](https://www.npmjs.com/package/gulp-uglify)
 -   [zip](https://www.npmjs.com/package/zip)
+-   [Eyeglass]
 
 
 **The SASS folder structure**:
